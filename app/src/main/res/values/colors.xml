@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#AAAAAA</color>
+    <color name="red">#c12019</color>
+    <color name="sun">#c9221f</color>
+    <color name="earth">#5ec9d8</color>
+    <color name="saturn">#00f901</color>
+    <color name="mars">#fefe06</color>
+    <color name="uranus">#7fc6ff</color>
+    <color name="neptune">#6e11db</color>
+    <color name="orange">#f5841e</color>
+    <color name="background_color">#000839</color>
+
+</resources>
